@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": "978dn9efz",
+      "name": " QUẦN SHORT NAM ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2FAPHTK029-3-480x635.jpg?alt=media&token=a231e9de-bbb0-4af0-9657-f4b228a1a858",
+      "price": "300",
+      "sale": "250",
+      "id_cate": "5",
+      "detail": " QUẦN SHORT NAM QSKKTK002",
+      "desc": "<p>&ndash; Chất liệu: Vải cao cấp<br />&ndash; Đặc t&iacute;nh<strong>:</strong>&nbsp;Mềm mại, co gi&atilde;n tốt, c&oacute; độ thấm h&uacute;t mồ h&ocirc;i v&agrave; h&uacute;t ẩm cao, tho&aacute;ng m&aacute;t.<br />&ndash; M&agrave;u sắc:&nbsp; xanh da trời, be<br />&ndash; Kiểu d&aacute;ng: Ống Su&ocirc;ng<br />&ndash; Size: 29 &ndash; 32<br /><strong>Hướng dẫn sử dụng:</strong><br />&ndash; Giặt ở nhiệt độ b&igrave;nh thường, với đồ c&oacute; m&agrave;u tương tự.<br />&ndash; Kh&ocirc;ng được d&ugrave;ng h&oacute;a chất tẩy.<br />&ndash; Hạn chế sử dụng m&aacute;y sấy, ủi ở nhiệt độ b&igrave;nh thường.<br /><strong>&ndash; Sản phẩm đ&atilde; c&oacute; mặt ở to&agrave;n bộ c&aacute;c cửa h&agrave;ng tr&ecirc;n hệ thống</strong></p>"
+    },
+    {
+      "id": "7w4ytezba",
+      "name": "QUẦN SHORT NAM",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2FAPHTK034-2-480x635.jpg?alt=media&token=8d09ad00-981a-4971-8e1b-b5473e5014ab",
+      "price": "400",
+      "sale": "300",
+      "id_cate": "5",
+      "detail": "QUẦN SHORT NAM QSJCN011",
+      "desc": "<p>&ndash; Chất liệu: Vải denim skinny<br />&ndash; Đặc t&iacute;nh: c&oacute; độ thấm h&uacute;t mồ h&ocirc;i v&agrave; h&uacute;t ẩm cao, tho&aacute;ng m&aacute;t.<br />&ndash; M&agrave;u sắc: xanh indigo<br />&ndash; Kiểu d&aacute;ng: Ống &ocirc;m<br />&ndash; Size: 28 &ndash; 32<br /><strong>+ Hướng dẫn sử dụng</strong>:<br />&ndash; Giặt ở nhiệt độ b&igrave;nh thường, với đồ c&oacute; m&agrave;u tương tự.<br />&ndash; Kh&ocirc;ng được d&ugrave;ng h&oacute;a chất tẩy.<br />&ndash; Hạn chế sử dụng m&aacute;y sấy, ủi ở nhiệt độ b&igrave;nh thường.<br /><strong>&ndash; Sản phẩm đ&atilde; c&oacute; mặt ở to&agrave;n bộ c&aacute;c cửa h&agrave;ng tr&ecirc;n hệ thống.</strong></p>"
+    },
+    {
+      "id": "rzkxiokip",
+      "name": "Váy nữ chấm bi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2Fproduct-9.jpg?alt=media&token=16b1f1f7-fa34-449f-ac1e-b4fd6fa4d754",
+      "price": "200",
+      "sale": "199",
+      "id_cate": "s0axwvgxf",
+      "detail": "Váy nữ cá tính ",
+      "desc": "<p><em><strong>Mang lại sự tự tin</strong></em></p>"
+    },
+    {
+      "id": "spzb73ix4",
+      "name": "Váy nữ công sở",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2Fproduct-11.jpg?alt=media&token=2bbff2fe-4ca4-477c-93c1-ebf95cbe6c69",
+      "price": "400",
+      "sale": "350",
+      "id_cate": "s0axwvgxf",
+      "detail": "Váy nữ công sở cho người công sở",
+      "desc": "<p><em><strong>V&aacute;y nữ hiện đại sang trọng</strong></em></p>"
+    },
+    {
+      "id": "ymbotvug6",
+      "name": "Áo nữ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2Fproduct-54.jpg?alt=media&token=b979302e-c820-464e-bc6e-17f8f4350ef7",
+      "price": "600",
+      "sale": "440",
+      "id_cate": "fatfb7sqn",
+      "detail": "Áo nữ công sở",
+      "desc": "<p>Đem lại sự tự tin</p>"
+    },
+    {
+      "id": "g64898xws",
+      "name": "Áo nữ chấm bi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2Fproduct-71.jpg?alt=media&token=b49e2e20-4ac7-4324-ae19-fd0f2b28f967",
+      "price": "400",
+      "sale": "350",
+      "id_cate": "fatfb7sqn",
+      "detail": "Áo nữ cá tính",
+      "desc": "<p>Sang trọng đơn giản</p>"
+    },
+    {
+      "id": "2eifrbt13",
+      "name": "Quần nữ công sở",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2Fproduct-27.jpg?alt=media&token=6639cb1c-fd70-44f2-944e-0d37e53e1ff9",
+      "price": "500",
+      "sale": "450",
+      "id_cate": "jktwewzow",
+      "detail": "Mang lại sự thoải mái ",
+      "desc": "<p>Sự tự tin v&agrave; thoải m&aacute;i</p>"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Quần đùi nam",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2Fproduct-2.jpg?alt=media&token=57035995-b06e-44a9-aa7e-3d8ea3455fdd",
+      "id": 5
+    },
+    {
+      "id": "fatfb7sqn",
+      "name": "Áo nữ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2Fproduct-22.jpg?alt=media&token=0bc0d603-400b-47c3-87d0-c4a155b55495"
+    },
+    {
+      "id": "s0axwvgxf",
+      "name": "Váy nữ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-3e638.appspot.com/o/images%2Fproduct-3.jpg?alt=media&token=abd86460-f9ec-470b-b520-e202df23b584"
+    }
+  ]
+}
